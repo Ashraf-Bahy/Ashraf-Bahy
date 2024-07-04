@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Software Engineer 
 - 👨‍💻 As a Computer Engineering student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C++, JavaScript, HTML, and CSS, or anything related to web development.
+- 💬 Ask me about my experience with C++, JavaScript, HTML, CSS, React JS, and Node JS, or anything related to web development.
 
 
 
